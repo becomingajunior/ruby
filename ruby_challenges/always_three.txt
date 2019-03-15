@@ -1,0 +1,7 @@
+puts "Give me a number."
+number = gets
+number.to_i
+number_1 = number
+puts number_1
+number_1 + 5
+puts number_1
